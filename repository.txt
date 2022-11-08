@@ -1,0 +1,10 @@
+원격 Repository
+
+- git으로 관리되는 프로젝트를 저장소(repository)라고 부른다.
+- 원격에 저장되어 있기 때문에 원격Repo라고 부른다.
+
+- remote repo >> github처럼 다른 곳에서 접속할 수 있는 공간에 저장되어 있는 것
+
+로컬 Repository
+
+- 내 컴퓨터에 저장되어 있는 git으로 관리되는 프로젝트

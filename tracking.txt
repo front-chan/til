@@ -1,0 +1,3 @@
+tarcking
+
+원격 repo와 로컬 repo를 연결시켜 주는 작업
